@@ -7,21 +7,7 @@
 
 ![Marchanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marchanis&show_icons=true&theme=radical)
 
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&layout=pie)](https://github.com/Marchanis/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&layout=donut-vertical)](https://github.com/Marchanis/github-readme-stats)
-
-
-
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&size_weight=0.5&count_weight=0.5)
 
