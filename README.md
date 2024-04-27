@@ -7,3 +7,10 @@
 [![Marchanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marchanis)](https://github.com/Marchanis/github-readme-stats)
 
 
+![Marchanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=aMarchanis&hide=contribs,prs)
+
+
+![Marchanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marchanis&show_icons=true&theme=radical)
+
+
+![Marchanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marchanis&show_icons=true)
