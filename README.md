@@ -32,7 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&langs_count=8)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&hide=javascript,html)
 
 
 
@@ -41,7 +40,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis)](https://github.com/Marchanis/github-readme-stats)
 
 
 
