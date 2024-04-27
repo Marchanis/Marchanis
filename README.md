@@ -1,9 +1,7 @@
 ### Hi, I'm Salwa !  👋
 
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech.
-
 👩🏻‍🎓 Studied digital development at ISTA, Casablanca
-
 💭 Currently learning about data analytics!
 
 
