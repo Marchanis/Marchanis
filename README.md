@@ -10,7 +10,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&hide_progress=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&layout=pie)](https://github.com/Marchanis/github-readme-stats)
@@ -19,17 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&layout=donut-vertical)](https://github.com/Marchanis/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&layout=donut)](https://github.com/Marchanis/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&exclude_repo=github-readme-stats,Marchanis.github.io)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&layout=compact)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchanis&langs_count=8)
 
 
 
