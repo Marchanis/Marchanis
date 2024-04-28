@@ -1,8 +1,10 @@
 ### Hi, I'm Salwa Marchani from Morocco 🇲🇦
 
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br>
-👩🏻‍🎓 Studied digital development at ISTA, Casablanca<br>
-💭 Currently learning Spanish <br>
+👩🏻‍🎓 Studied digital development , Casablanca<br>
+🗣️ Languages spoken: English, Arabic, French<br>
+💭 I'm Currently learning Spanish
+
 
 
 ![Marchanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marchanis&show_icons=true&theme=radical)
