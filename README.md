@@ -10,15 +10,12 @@
 
 ## 🌐 Socials:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/salwa marchani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salwa marchani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salwa-marchani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salwa-marchani/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17274569/salwa-marchani?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17274569/salwa-marchani?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100008663926053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100008663926053" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/salwa.marchani/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/salwa.marchani/?next=%2f" height="30" width="40" /></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100008663926053)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/salwa.marchani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salwa-marchani/) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Salwa-Marchani-1)
 
-
+[![Stack-Overflow](https://img.shields.io/badge/Stack-Overflow-%23B92B27.svg?logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/17274569/salwa-marchani)
 
 
 # 💻 Tech Stack:
@@ -36,16 +33,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Marchanis&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
 
 
