@@ -1,8 +1,9 @@
 ### Hi, I'm Salwa !  👋
 
+
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br>
 👩🏻‍🎓 Studied digital development at ISTA, Casablanca<br>
-💭 Currently learning about data analytics!<br>
+💭 Currently learning Spanish <br>
 
 
 ![Marchanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marchanis&show_icons=true&theme=radical)
