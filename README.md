@@ -1,4 +1,4 @@
-### Hi, I'm Salwa Marchani from Morocco 🇲🇦, Welcome to my Github Profile! I love programming and creating beautiful websites and applications. ! 
+### Hi, I'm Salwa Marchani from Morocco 🇲🇦, Welcome to my Github Profile! 
 
 
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br>
