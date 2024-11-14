@@ -1,6 +1,6 @@
 ### Hi, I'm Salwa Marchani from Morocco 🇲🇦
 
-👩🏻‍💻 Full Stack Developer sharing about my journey and learnings in tech<br>
+👩🏻‍💻  Developer sharing about my journey and learnings in tech<br>
 👩🏻‍🎓 Studied digital development , Casablanca<br>
 🗣️ Languages spoken: English, Arabic, French<br>
 💭 I'm Currently learning Spanish
