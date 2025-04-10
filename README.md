@@ -1,9 +1,7 @@
-### Hi, I'm Salwa Marchani from Morocco 🇲🇦
+### Hi, I'm Salwa Marchani from  🇲🇦
 
-👩🏻‍💻  Developer sharing about my journey and learnings in tech<br>
-👩🏻‍🎓 Studied digital development , Casablanca<br>
-🗣️ Languages spoken: English, Arabic, French<br>
-💭 I'm Currently learning Spanish
+# 👩🏻‍💻 Welcome to Tech Girl World 👩🏻‍💻
+
 
 
 
@@ -34,5 +32,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=Marchanis&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+
+
+<br>
+
+### “The journey of a thousand miles begins with a single commit.” – **Tech Girl**
+
+Thank you for checking out my page! 🚀 Let's connect and grow together in the tech community. 🌱
+
 
 
