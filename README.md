@@ -1,4 +1,4 @@
-### Hi, I'm Salwa Marchani from  🇲🇦
+### Hi, I'm Sliwaa from  🇲🇦
 
 # 👩🏻‍💻 Welcome to Tech Girl World 👩🏻‍💻
 
