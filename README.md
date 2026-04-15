@@ -39,11 +39,3 @@
 
 
 
-<br>
-
-### “The journey of a thousand miles begins with a single commit.” – **Tech Girl**
-
-Thank you for checking out my page! 🚀 Let's connect and grow together in the tech community. 🌱
-
-
-
