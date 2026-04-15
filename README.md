@@ -9,8 +9,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/salwa.marchani/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salwa-marchani/) 
-
 [![Stack-Overflow](https://img.shields.io/badge/Stack-Overflow-%23B92B27.svg?logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/17274569/salwa-marchani)
+
 
 # 💻 Tech Stack:
 
