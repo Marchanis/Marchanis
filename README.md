@@ -8,10 +8,8 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100008663926053)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/salwa.marchani/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salwa-marchani/) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Salwa-Marchani-1)
 
 [![Stack-Overflow](https://img.shields.io/badge/Stack-Overflow-%23B92B27.svg?logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/17274569/salwa-marchani)
 
